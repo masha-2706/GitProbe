@@ -1,0 +1,33 @@
+.counterWrapper {
+    border: 1px solid grey;
+    border-radius: 10px;
+    margin: 10px;
+    padding-bottom: 15px;
+}
+.counterBtn {
+    color: rgb(95, 66, 29);
+    font-style: italic;
+    font-weight: bold;
+    padding: 4px;
+    background-color: bisque;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 5px 2px 5px grey;
+    margin: 5px;
+}
+.counterInput {
+    border: none;
+    background-color: bisque;
+    padding: 4px;
+    border-radius: 5px;
+    margin: 5px;
+    max-width: 100px;
+}
+.counterParagraph {
+    color: rgb(95, 66, 29);
+}
+.counterParagraph > span {
+    font-weight: bold;
+    margin-left: 5px;
+    font-size: 18px;
+}
